@@ -1,2 +1,2 @@
 # Yori-music-kokobi
-thanks for "ECHO-NEXT"
+thanks to "ECHO-NEXT"
